@@ -1,2 +1,5 @@
-- [Read Me](README)
-- [Example Second Page](second-page)
+- [Home](README)
+- [Getting Started](1getting-started.md)
+- [Tips for Starterz](2tips-started.md)
+- [Server Rules](3server-rules.md)
+- [Technical Explanations for Custom Features](4explanations.md)

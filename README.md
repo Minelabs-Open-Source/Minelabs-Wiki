@@ -1,31 +1,34 @@
-# Docsify Template
+# Welcome to the Minelabs Wiki
 
-> A simple [Docsify](https://github.com/docsifyjs/docsify/) template for creating Markdown-based documentation sites, with no build process required.
+Minelabs is a community-driven Minecraft server where creativity, technology, civilization, community and exploration come together. 
 
-## Site Setup
+This wiki is your complete guide to the Minelabs experience — whether you’re a new player joining for the first time, or a seasoned builder looking for advanced tips.
 
-### Static Webserver
-Upload these template files to any static web server. The file `.nojekyll` is only required if hosting the site on GitHub Pages and otherwise can be removed.
+## What is "Minelabs"?
+Minelabs is a custom Minecraft server offering:
+- A unique gameplay experience with science-themed mechanics
+- Community events, competitions, and collaborative projects
+- Tutorials and guides to help you get the most out of the server
 
-### GitHub Pages
+## How to Join (Even a Zombie Pigman can do it)
+1. Make sure you have the correct Minecraft version installed.  
+2. Open Minecraft → **Multiplayer** → **Add Server**.  
+3. Enter the server address: **`<server IP here>`**  
+4. Click **Join Server** and start exploring!
 
-#### Hosting Site
+*(If you don’t know the current server IP, ask Big Man Pendin, staff members or simply check the server announcementz!)*
 
-To host this template on GitHub Pages do the following:  
+## Using the Wiki
+Here in the wiki, you’ll find:
+- Getting started
+- Tipz for Starters
+- Server rules
+- Technical explanations for custom features (highly suggested!)
 
-1. Log into GitHub if you have not done so already
-2. Tap the **Use this template** button in the upper-right of this GitHub Repository and choose **Create a new repository**
-3. Enter a name for your new Repository and then tap the **Create repository** button
-4. Once your new Repostitory is created go to **Settings**, then select **Pages** from the left-hand sidebar, and under **Branch** choose **main** and then tap the **Save** button
-5. Wait a minute or two and refresh the same **Pages** page - once your site is ready a message will be displayed at the top of the screen along with a site link and a **Visit site** button
+Finally, as you play, feel free to contribute! 
 
-#### Editing Content
+New information helps everyone in the community.
 
-How about editing the content of your new Docsify site on GitHub Pages? View the Markdown page you want to edit (for example, **README.md**) and tap the **Pencil Icon**, then save any changes by tapping the green **Commit changes...** button. In just a few moments the Docsify site will be automatically updated to reflect those changes.
+---
 
-### Viewing Locally 
-Run `npx serve .` (Node.js users) or `python -m http.server 8000` (Python users) in the repo folder to serve run locally.
-
-## Docsify Documentation
-
-To learn more about using Docsify, visit https://docsify.js.org.
+*Last updated: August 2025*
