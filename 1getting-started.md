@@ -1,6 +1,6 @@
 # 🚀 Getting Started
 
-Welcome to **Minelabs**! Follow these steps to join our server and start playing. 🎮  
+Welcome to **Minelabs**! Follow these steps to join us and start playing. 🎮  
 
 ---
 
@@ -21,7 +21,7 @@ Click the **"Done"** button and join the server! 🎉
 
 ---
 
-### 📡 Connection Info
+### 📡 For Bedrock Players
 - **Server IP:** **__play.minelabs.fun__**  
 - **Port:** **__19132__**  
 
